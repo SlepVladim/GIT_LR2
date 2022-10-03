@@ -1,0 +1,3 @@
+[submodule "lib/lab"]
+	path = lib/lab
+	url = git@github.com:SlepVladim/LAB_01.git
